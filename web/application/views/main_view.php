@@ -51,7 +51,7 @@
         </div>
         <form enctype="multipart/form-data" id="create_post" method="POST" action="/tasks/create">
             <div class="form-group">
-                <label for="name">Имя:</label>
+                <label>Имя:</label>
                 <input name="name" style="width: 200px" type="text" class="form-control">
             </div>
             <div class="form-group">
