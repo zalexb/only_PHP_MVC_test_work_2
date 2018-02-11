@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ea4437-8d44-40cf-8a6a-88cb174f5033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/126f9ac2eb100ae094003a2f18d9ba68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/b07582131e4f2e68ec166a707cdfbb32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/e748f2a1345ee7e3c0ab685bf8fb8d85.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/fce5340effdb46d408b9dda9671eb841.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/static/img/checked_box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/static/img/unchecked_box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/beejee-test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db_dump/beejee_test.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/controllers/controller_404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/controllers/controller_tasks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/controllers/controller_users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/core/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/core/db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/core/model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/core/route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/core/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/lib/lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/lib/paginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/models/model_tasks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/models/model_users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/views/404_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/views/main_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/views/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/application/views/templates/template_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/static/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/static/js/jquery-3.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/static/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/static/js/scripts.js" afterPath="$PROJECT_DIR$/web/static/js/scripts.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,16 +61,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/application/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="controller_tasks.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/application/controllers/controller_tasks.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,26 +92,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/static/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding>
-                <marker date="1518356058098" expanded="true" signature="409:434" ph="..." />
-                <marker date="1518356058098" expanded="true" signature="946:957" ph="..." />
-                <marker date="1518356058098" expanded="true" signature="2688:2722" ph="..." />
-                <marker date="1518356058098" expanded="true" signature="3997:4006" ph="..." />
+                <marker date="1518357025151" expanded="true" signature="409:434" ph="..." />
+                <marker date="1518357025151" expanded="true" signature="920:931" ph="..." />
+                <marker date="1518357025151" expanded="true" signature="2617:2651" ph="..." />
+                <marker date="1518357025151" expanded="true" signature="3926:3935" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -214,8 +183,8 @@
         <option value="$PROJECT_DIR$/web/application/controllers/controller_users.php" />
         <option value="$PROJECT_DIR$/web/application/controllers/controller_tasks.php" />
         <option value="$PROJECT_DIR$/web/application/models/model_tasks.php" />
-        <option value="$PROJECT_DIR$/web/static/js/scripts.js" />
         <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/web/static/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -227,8 +196,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="684" />
-    <option name="y" value="39" />
+    <option name="x" value="308" />
     <option name="width" value="1471" />
     <option name="height" value="999" />
   </component>
@@ -386,24 +354,25 @@
       <workItem from="1518190307023" duration="9797000" />
       <workItem from="1518261954544" duration="678000" />
       <workItem from="1518288572822" duration="13597000" />
-      <workItem from="1518347967514" duration="6558000" />
+      <workItem from="1518347967514" duration="6811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30630000" />
+    <option name="totallyTimeSpent" value="30883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="39" width="1471" height="999" extended-state="0" />
+    <frame x="308" y="0" width="1471" height="999" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35062006" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35062006" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -624,14 +593,6 @@
     <entry file="file://$PROJECT_DIR$/web/application/models/model_posts.php" />
     <entry file="file://$PROJECT_DIR$/web/application/views/single_view.php" />
     <entry file="file://$PROJECT_DIR$/web/application/controllers/controller_main.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -834,24 +795,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <marker date="1518356058098" expanded="true" signature="409:434" ph="..." />
-            <marker date="1518356058098" expanded="true" signature="946:957" ph="..." />
-            <marker date="1518356058098" expanded="true" signature="2688:2722" ph="..." />
-            <marker date="1518356058098" expanded="true" signature="3997:4006" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <marker date="1518357025151" expanded="true" signature="409:434" ph="..." />
+            <marker date="1518357025151" expanded="true" signature="920:931" ph="..." />
+            <marker date="1518357025151" expanded="true" signature="2617:2651" ph="..." />
+            <marker date="1518357025151" expanded="true" signature="3926:3935" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

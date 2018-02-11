@@ -10,7 +10,6 @@ $(document).ready(function () {
 
        container[0].innerHTML = '<textarea id="area_container" style="width: 600px;height:170px">'+content+'</textarea><button id="change">Изменить</button>';
 
-        //click any place
         $('#change').on('click',function() {
             $.ajax({
                 url:'/tasks/content',
@@ -31,7 +30,6 @@ $(document).ready(function () {
             });
         });
 
-        //stops window event on clicking inside area
         $('#area_container').click(function(event){
             event.stopPropagation();
         });
