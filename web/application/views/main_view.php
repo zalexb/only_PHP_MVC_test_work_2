@@ -2,7 +2,7 @@
     <div id="post">
         <h4>Сортировка</h4>
         <select class="sort" name="sort">
-            <option value="id" <? echo(empty($_GET['sort'])||$_GET['sort']='id' ? 'selected' : '')?>>по id</option>
+            <option value="id" <? echo(empty($_GET['sort']) ? 'selected' : '')?>>по id</option>
             <option value="name" <? echo($_GET['sort']=='name' ? 'selected' : '')?>>по имени</option>
             <option value="email" <? echo($_GET['sort']=='email' ? 'selected' : '')?>> по email </option>
             <option value="status" <? echo($_GET['sort']=='status' ? 'selected' : '')?>>по статусу</option>
